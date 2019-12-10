@@ -14,6 +14,6 @@ You are not allowed to use the rm command
 
 Now, go back to your seat and race each other to get your file system back the way it was.
 
-Who can cause the most carnage? (Without breaking the machine)
+## Who can cause the most carnage? (Without breaking the machine)
 
 
