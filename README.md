@@ -5,7 +5,7 @@ You have 5 mins to mix up, rearrange and generally mess around with this file di
 
 
 ## Rules
-You are only allowed to rename 2 files, no directories.
+You are only allowed to rename 2 files, excluding directories.
 
 You must stay within this repo.
 
